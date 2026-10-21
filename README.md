@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Cloud & AI Systems Builder | Undergraduate at UTeM<br><br>Focused on building autonomous AI agents and cloud-native infrastructure. Actively engineering with the Google Cloud ecosystem (Cloud Run, Vertex AI, BigQuery) and integrating Model Context Protocol (MCP) workflows. Solid grounding in backend architecture, relational database design (SQL), and containerized deployments.<br><br>Core Focus: Generative AI Agents, Cloud Architecture, Distributed Systems<br><br>Tech Stack: Python, JavaScript, SQL, Google Cloud Platform, Docker/Kubernetes<br><br>Community & Competitions: GDG Member, Hackathon Competitor (Devpost)
 
 
